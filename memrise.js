@@ -92,5 +92,5 @@
 		if($('.next-icon').length) {
 			$('.next-icon').click();
 		}
-	}, (Math.random()*10000));
+	}, (Math.random()*7000));
 })(jQuery);
