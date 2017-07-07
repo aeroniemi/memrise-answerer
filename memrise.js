@@ -92,5 +92,5 @@
 		if($('.next-icon').length) {
 			$('.next-icon').click();
 		}
-	}, 10);
+	}, 1000);
 })(jQuery);
