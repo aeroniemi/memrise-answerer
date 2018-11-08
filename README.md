@@ -8,3 +8,5 @@ Which is simply just a compressed way of inserting the following `script` tag in
     <script src="https://cdn.rawgit.com/aeroniemi/memrise-answerer/b64da16e/memrise.js" type="text/javascript"></script>
 
 Memrise decided to provide us will all the answers preloaded in the JavaScript rather than checking the answers server side so I decided to take advantage of that to answer the questions automatically for me, which is much more fun than answering homework questions manually.
+
+*A more recent update of Memrise's stuff checks the times between clicks, I have updated the original script to include some randomisation in this, to evade it.*
